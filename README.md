@@ -6,13 +6,13 @@ Aplicação web para gerenciar tarefas, desenvolvida com Node.js, Express e Supa
 
 | Nome | Matrícula | Responsabilidade |
 |------|-----------|-----------------|
-| Participante 1 | 000001 | Backend (servidor, rotas, banco de dados) |
-| Participante 2 | 000002 | Frontend (interface), testes e CI/CD |
+| Joao Maia Reis | 000001 | Backend (servidor, rotas, banco de dados) |
+| Pedro Maia Reis | 000002 | Frontend (interface), testes e CI/CD |
 
 ## 🔗 Links
 
-- **Repositório:** https://github.com/SEU_USUARIO/taskapp-bootcamp
-- **Aplicação publicada:** https://taskapp-bootcamp.onrender.com
+- **Repositório:** https://github.com/JoaoMaiareis/taskapp-bootcamp
+
 
 ---
 
@@ -31,7 +31,7 @@ Aplicação web para gerenciar tarefas, desenvolvida com Node.js, Express e Supa
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/taskapp-bootcamp.git
+git clone https://github.com/JoaoMaiareis/taskapp-bootcamp.git
 cd taskapp-bootcamp
 ```
 
